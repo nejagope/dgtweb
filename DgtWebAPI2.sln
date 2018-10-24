@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DgtWebAPI2", "DgtWebAPI2\DgtWebAPI2.csproj", "{3304B216-A7A4-4D0A-85B6-D0F87744E0AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DgtWeb", "DgtWeb\DgtWeb.csproj", "{D2999909-2159-47BC-B9C3-B3730D64AACF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3304B216-A7A4-4D0A-85B6-D0F87744E0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3304B216-A7A4-4D0A-85B6-D0F87744E0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3304B216-A7A4-4D0A-85B6-D0F87744E0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2999909-2159-47BC-B9C3-B3730D64AACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2999909-2159-47BC-B9C3-B3730D64AACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2999909-2159-47BC-B9C3-B3730D64AACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2999909-2159-47BC-B9C3-B3730D64AACF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
